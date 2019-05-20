@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-Various view-specific methods for applications
+```ruby
+InsomniaViewTool::Renderer.copyright 'InsomniaNoir', 'All Rights Reserved'
+```
 
 ## Development
 
